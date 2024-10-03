@@ -6,5 +6,10 @@ Lecture 01:
 - Overview of Natural Language Processing (NLP)
 - Importance and applications of NLP
 - Key concepts in neural networks for NLP
+- approches to do NLP:
+  - Classic: NLTK
+  - Deep learning Based: PYTORCH
+- 
+
 
 Lecture 02:
